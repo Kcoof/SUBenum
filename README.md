@@ -1,2 +1,2 @@
 # SUBenum
-for Subdomain Enumeration 
+Subdomain Enumeration 
